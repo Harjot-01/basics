@@ -3,6 +3,7 @@ function appendToDisplay(value) {
     document.getElementById('display').value += value;
 }
 
+// another function
 function clearDisplay() {
     document.getElementById('display').value = '';
 }
